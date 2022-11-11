@@ -1,6 +1,7 @@
 
 # Time Server on Raspberry Pi with Nodejs 
 Implement time server with Nodejs and run on Raspberry Pi.
+https://docs.google.com/presentation/d/1obf5JwOFBl9sIlIrdM0Ci7tMdmmW_jZ2s8rWBh3FA8w/edit?usp=sharing
 
 
 ## TCP time server
